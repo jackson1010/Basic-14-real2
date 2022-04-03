@@ -4,6 +4,7 @@ var bothDraw = 0;
 var playSPS = false;
 var userName = "";
 var totalGame = 0;
+var reverseGame = false;
 
 var main = function (input) {
   if (playSPS == false) {
