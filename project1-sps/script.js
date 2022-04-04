@@ -150,7 +150,7 @@ var msg = function (input, result) {
   var gIcon = generatedIcon(result);
   var uIcon = inputIcon(input);
   return (
-    `The computer chose ` +
+    ` The computer chose ` +
     result +
     gIcon +
     "<br><br>" +
